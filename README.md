@@ -1,6 +1,6 @@
 ## MAC - My Algo Course
-# 
-This is intended to be documentation of my continued interest and determination to achieve a high level of comprehension with what might be considered the basics of Computer Science. A large part of this effort will focus on working through MIT's Mathematics for Computer Science (hereafter ["MCS"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)). This is due to my belief that depth of understanding of the mathematics involved will lead to a fuller comprehension of the analysis and comprehension of the algorithms we seek to study.
+---
+This is intended to be documentation of my continued interest and determination to achieve a high level of comprehension with what might be considered the basics of Computer Science. A large part of this effort will focus on working through MIT's Mathematics for Computer Science (hereafter ["MCS"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)). This is due to my belief that depth of understanding of the mathematics involved will lead to a fuller comprehension of the analysis and comprehension of the algorithms we seek to study.
 
 In particular, I will be working out the schedule to a 20 hour per week course which can be completed in the time I have: 13 weeks. The reason a 20 hour week is chosen is so that one can take this course while gainfully employed.
 
@@ -20,7 +20,7 @@ This ordering is inspired by the many courses online and in books, but most of a
 2. Stacks/Queues
 3. Linked Lists
 4. Trees/BST
-5. Hash Table
+5. Hashing
 6. Searching / Sorting
 7. Un/weighted Graphs (2 weeks)
 8. Combinatorics / Backtracking (2 weeks)
