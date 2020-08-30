@@ -1,6 +1,6 @@
 Week 1
   - Arrays/Strings
-  - MCS 1.1 - 1.4
+  - MCS 1.1, 1.2, 1.3, 1.4
   - MCS PSet 1
 
 ---
@@ -18,7 +18,7 @@ Week 3
 ---
 Week 4
   - Trees/BST
-  - MCS 1.9 - 1. 11
+  - MCS 1.9, 1.10, 1. 11
   - MCS PSet 4
   - MCS Midterm 1
 
@@ -65,11 +65,15 @@ Week 10
 Week 11
   - Dynamic Programming I
   - MCS Final (no probability)
+  - Parallel Computing
 
 ---
 Week 12
   - Dynamic Programming II
+  - System Design
 
 ---
 Week 13
   - Bit Manipulation
+  - Parallel Computing
+  - System Design

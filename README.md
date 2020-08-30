@@ -10,11 +10,13 @@ At the same time, we will move through the topics below, doing questions taken f
 
 ## Taking This Course
 
-The file CALENDAR may be used to schedule out one's weeks. It will contain references to the RESOURCES file.
+The file CALENDAR may be used to schedule out one's weeks. It will contain references to the RESOURCES file and the collected Topics.
 
 ## Ordering of CS Topics
 
-This ordering is inspired by the many courses online and in books, but most of all by Skiena's layout of his Algorithm Design Manual. Please note that this misses many advanced topics necessary to doing well in coding interviews. These include parallel computing, system design, scaling solutions, and object oriented design.
+This ordering is inspired by the many courses online and in books, but most of all by Skiena's layout of his Algorithm Design Manual. The motivation here is to engender a solid mastery over the common manipulations to the common data structures. From there we move onto more advanced problem solving techniques.
+
+Please note that this approach misses many advanced topics necessary to doing well in coding interviews. These include parallel computing, system design, scaling solutions, and object oriented design. A small sampling of these topics are included in the final weeks.
 
 1. Arrays/Strings
 2. Stacks/Queues
