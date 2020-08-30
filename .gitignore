@@ -1,0 +1,5 @@
+.history/
+.byebug_history
+node_modules/
+.vscode/
+tmp/cache/
