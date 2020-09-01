@@ -1,4 +1,4 @@
-Week 1
+Week 1 - 8/30
   - [Arrays/Strings](Topics/01_Arrays+Strings.md)
   - MCS 
     - Lecture [1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs), [2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction)
@@ -6,7 +6,7 @@ Week 1
     - [PSet 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn01.pdf)
 
 ---
-Week 2
+Week 2 - 9/6
   - [Stacks/Queues](Topics/02_Stacks+Queues.md)
   - MCS
     - Lecture [3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction), [4](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i)
@@ -14,7 +14,7 @@ Week 2
     - [PSet 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn02.pdf)
 
 ---
-Week 3
+Week 3 - 9/13
   - [Linked Lists](Topics/03_Linked_Lists.md)
   - MCS
     - Lecture [5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-5-number-theory-ii), [6](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring)
@@ -22,7 +22,7 @@ Week 3
     - [PSet 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn03.pdf)
 
 ---
-Week 4
+Week 4 - 9/20
   - [Trees/BST](Topics/04_Trees+BST.md)
   - MCS 
     - Lecture [7](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-7-matching-problems), [8](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-8-graph-theory-ii-minimum-spanning-trees)
@@ -31,7 +31,7 @@ Week 4
     - [Midterm 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/exams/MIT6_042JS15_midterm1.pdf)
 
 ---
-Week 5
+Week 5 - 9/27
   - [Hashing](Topics/05_Hashing.md)
   - MCS
     - Lecture [9](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-9-communication-networks), [10](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-10-graph-theory-iii)
@@ -39,7 +39,7 @@ Week 5
     - [PSet 5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn05.pdf)
 
 ---
-Week 6
+Week 6 - 10/4
   - [Searching/Sorting](Topics/06_Searching+Sorting.md)
   - MCS
     - Lecture [11](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-11-relations-partial-orders-and-scheduling), [12](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-12-sums)
@@ -48,7 +48,7 @@ Week 6
     - [Midterm 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/exams/MIT6_042JS15_midterm2.pdf)
     
 ---
-Week 7
+Week 7 - 10/11
   - [Unweighted Graphs](Topics/07_Unweighted_Graphs.md)
   - MCS
     - Lecture [13](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-13-sums-and-asymptotics), [14](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-14-divide-and-conquer-recurrences)
@@ -56,7 +56,7 @@ Week 7
     - [PSet 7](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn07.pdf)
 
 ---
-Week 8
+Week 8 - 10/18
   - [Weighted Graphs](Topics/08_Weighted_Graphs.md)
   - MCS
     - Lecture [15](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-15-linear-recurrences), [16](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i)
@@ -64,7 +64,7 @@ Week 8
     - [PSet 8](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn08.pdf)
 
 ---
-Week 9
+Week 9 - 10/25
   - [Combinatorics](Topics/09_Combinatorics.md)
   - MCS
     - Lecture [17](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-17-counting-rules-ii)
@@ -72,25 +72,25 @@ Week 9
     - [Midterm 3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/exams/MIT6_042JS15_midterm3.pdf)
 
 ---
-Week 10
+Week 10 - 11/1
   - [Backtracking]((Topics/10_Backtracking.md))
   - MCS ([Spring 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/resource-index/))
     - [3.3](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1), [3.4](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2), [3.5](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1)
     - [PSet 10](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/assignments/MIT6_042JS15_ps10.pdf)
 
 ---
-Week 11
+Week 11 - 11/8
   - [Dynamic Programming I](Topics/11_DP.md)
   - [MCS Final](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/exams/MIT6_042JF10_final_2008.pdf) (no probability)
   - [Parallel Computing](Topics/14_Parallel_Computing.md)
 
 ---
-Week 12
+Week 12 - 11/15
   - [Dynamic Programming II](Topics/11_DP.md)
   - [System Design](Topics/13_System_Design.md)
 
 ---
-Week 13
+Week 13 - 11/22
   - [Bit Manipulation](Topics/12_Bit_Manipulation.md)
   - [Parallel Computing](Topics/14_Parallel_Computing.md)
   - [System Design](Topics/13_System_Design.md)
