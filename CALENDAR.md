@@ -1,5 +1,5 @@
 Week 1
-  - [Arrays/Strings](Topics/01.Arrays+Strings.md)
+  - [Arrays/Strings](Topics/01_Arrays+Strings.md)
   - MCS 
     - Lecture [1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs), [2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction)
     - Recitation [1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec01.pdf), [2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/recitations/MIT6_042JF10_rec02.pdf)
