@@ -1,6 +1,6 @@
 ## MAC - My Algo Course
 ---
-This is intended to be documentation of my quest to achieve a high level of comprehension with what might be considered the basic algorithms of Computer Science. A large part of this effort will focus on working through 6.042J: Mathematics for Computer Science, as taught in Fall 2010 (hereafter ["MCS"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)). This is due to my belief that an increased understanding of the mathematics involved will lead to a fuller comprehension of the algorithms we seek to study. 
+This is intended to be documentation of my quest to achieve a high level of comprehension with what might be considered the basic algorithms of Computer Science. A large part of this effort will focus on working through 6.042J: Mathematics for Computer Science, as taught in Spring 2015 (hereafter ["MCS"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)). This is due to my belief that an increased understanding of the mathematics involved will lead to a fuller comprehension of the algorithms we seek to study. 
 
 In particular, I will be working out the schedule to a 20 hour per week course which can be completed in the time I have: 13 weeks. The reason a 20 hour week is chosen is so that one can take this course while gainfully employed.
 
