@@ -59,7 +59,10 @@ function oneEditDistance(s, t) {
       // t === s[0...k-1]+s[k+1...s.length]
       let i = 0, k = Math.max(s.length, t.length);
       while (s[i] === t[i]) i++;
-      for (let js = s.length - 1, jt = t.length - 1; js >= i || jt >= i; js--, jt--) {
+      for (let js = s.length - 1, jt = t.length - 1;
+          js >= i || jt >= i;
+          js--, jt--) 
+      {
         if (s[js] !== t[jt]) {
           k = Math.max(js, jt) + 1;
           break;
