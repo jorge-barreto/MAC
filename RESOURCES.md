@@ -8,6 +8,7 @@
   - ITA - Introduction to Algorithms, 3rd Edition
   - GTCI - Grokking the Coding Interview
   - LC - LeetCode
+  - [MCS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf) - Mathematics for Computer Science
 
 ## GTCI's Questions per "Pattern"
 
